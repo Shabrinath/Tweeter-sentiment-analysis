@@ -1,4 +1,4 @@
-# Tweet Sentiment Analysis using OpenAI
+# Sentiment Analysis using OpenAI
 
 This project demonstrates how to perform sentiment analysis on a list of tweets using OpenAI's GPT-based models, such as `gpt-3.5-turbo` or `gpt-4`. The script classifies each tweet's sentiment as **Positive**, **Negative**, or **Neutral**.
 
